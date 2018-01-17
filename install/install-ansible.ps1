@@ -1,0 +1,1 @@
+bash.exe -c 'sudo /bin/bash install-ansible.sh'
